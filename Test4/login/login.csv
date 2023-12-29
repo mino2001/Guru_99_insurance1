@@ -1,0 +1,5 @@
+Tesat Case,Description,Object,Action,DataColumn,WaitAfter
+login,Enter email,email,input,email,
+login,Enter password,password,input,password,
+login,Click login button,"//*[@id=""login-form""]/div[3]/input",click,,
+login,Verify text,/html/body/div[3]/form/div[2]/span/b,verifyText,errMsg,

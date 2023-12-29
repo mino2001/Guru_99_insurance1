@@ -1,0 +1,5 @@
+Test case,Enabled,Description,surename,firstname,phone,address,city,country,code
+sign_up,1,All fields are empty,,,,,,,
+sign_up,1,surname field empty,,Amal,3.08E+08,abc,Mathara,Sri Lanka,4343
+sign_up,1,first name field empty,Perera,,3.08E+08,abc,Mathara,Sri Lanka,4343
+sign_up,1,Enter all details,Perera,Amal,3.08E+08,abc,Mathara,Sri Lanka,4343

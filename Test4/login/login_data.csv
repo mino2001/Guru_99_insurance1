@@ -1,0 +1,7 @@
+Test Case,Enabled,Discription,email,password
+sign_up,0,All fields are empty,,
+sign_up,1,Enter only email field,nimal@gmail.com,
+sign_up,0,Enter only password,,nimal123
+sign_up,0,Enter wrong email,nirmal@gmailcom,nimal123
+sign_up,0,Enter wrong password,nimal@gmail.com,nimal45
+sign_up,1,Fill all the fields,nimal@gmail.com,nimal123
